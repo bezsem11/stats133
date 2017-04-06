@@ -1,0 +1,12 @@
+---
+title: "Bezci_Semih_lab8"
+author: "Semih Bezci"
+date: "April 6, 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+We are learning how to use Github:)
